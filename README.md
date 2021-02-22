@@ -1,8 +1,10 @@
 ### Greetings!
 
-I am the Sr. Data Manager for the ARC Centre of Excellence for the Dynamics of Language ([CoEDL](https://www.dynamicsoflanguage.edu.au/)) and digital archivist for the Pacific Archive for Digital Sources in Endangerewd Cultures ([PARADISEC](https://www.paradisec.org.au/)). 
+I am the Sr. Data Manager for the ARC Centre of Excellence for the Dynamics of Language ([CoEDL](https://www.dynamicsoflanguage.edu.au/)) and digital archivist for the Pacific Archive for Digital Sources in Endangered Cultures ([PARADISEC](https://www.paradisec.org.au/)). I was a phonetician in a previous life. 
 
 My currennt projects include creating technical workflows for the PARADISEC Archive. These can be found here: [PARADISEC technical workflows](https://paradisec-archive.github.io/PARADISEC_workflows/)
+
+Interests include (presented in no particular order): digital archives, language documentation, community access to archived cultural materials, dialogic repatriation, video transcoding, metadata
 
 Some of the language documentation projects I have previously contributed to:
 
