@@ -4,7 +4,7 @@ I am the Sr. Data Manager for the ARC Centre of Excellence for the Dynamics of L
 
 My current projects include creating technical workflows for the PARADISEC Archive. These can be found here: [PARADISEC technical workflows](https://paradisec-archive.github.io/PARADISEC_workflows/)
 
-Interests include (presented in no particular order): digital archives, language documentation, recording equipment (to carry out fieldwork), community access to archived cultural materials, dialogic repatriation, video transcoding, metadata
+Interests include *(presented in no particular order)*: digital archives, language documentation, recording equipment (to carry out fieldwork), community access to archived cultural materials, dialogic repatriation, video transcoding, metadata
 
 Some of the language documentation projects I have previously contributed to:
 
