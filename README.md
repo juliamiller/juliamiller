@@ -6,7 +6,7 @@ My current projects include creating technical workflows that facilitate the arc
 
 Interests include *(presented in no particular order)*: digital archives, language documentation, recording equipment (to carry out fieldwork), community access to archived cultural materials, dialogic repatriation, video transcoding, metadata
 
-Some of the language documentation projects I have previously contributed my own field recordings to:
+Some of the language documentation archiving projects I have contributed my own field recordings to:
 
 * [Nen, Nambo, Komnzo (Morehead) Collection](https://hdl.handle.net/1839/00-0000-0000-0017-89A2-B) <br>
 * [Beaver (Dane-zaa) Collection](https://hdl.handle.net/1839/2f89ddbf-9a60-487c-8089-8c206848c98d)
