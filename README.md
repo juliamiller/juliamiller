@@ -1,6 +1,6 @@
 ### Greetings!
 
-I am the Sr. Data Manager for the Language Data Commons of Australia, ANU [LDaCA](https://www.ldaca.edu.au/) and digital archivist for the Pacific and Regional Archive for Digital Sources in Endangered Cultures ([PARADISEC](https://www.paradisec.org.au/) where I manage the ANU unit of PARADISEC. Topics covered in my [2013 Linguistics PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/23468) includes Language Documentation, Acoustic Phonetics, and Sociolinguistics. 
+I am the Sr. Data Manager for the Language Data Commons of Australia, ANU [LDaCA](https://www.ldaca.edu.au/) and digital archivist for the Pacific and Regional Archive for Digital Sources in Endangered Cultures [PARADISEC](https://www.paradisec.org.au/), where I manage the ANU unit of PARADISEC. Topics covered in my [2013 Linguistics PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/23468) includes Language Documentation, Acoustic Phonetics, and Sociolinguistics. 
 
 My current projects include creating technical workflows that facilitate the archiving process for the PARADISEC Archive. They also cover technical specifications for our audio and digital transcoding efforts. These can all be found here: [PARADISEC technical workflows](https://paradisec-archive.github.io/PARADISEC_workflows/)
 
